@@ -12,7 +12,7 @@
 
 [<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" hspace="20"/>](https://github.com/sepios87)
 
-[<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/>](sepios.corp@gmail.com)
+<a href="mailto:sepios.corp@gmail.com"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/></a>
 
 
 <br/><br/>
