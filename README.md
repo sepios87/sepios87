@@ -1,4 +1,4 @@
-# <p align="center">Bienvenue sur mon dépot Github ! 😄</p>
+# <p align="center">Bienvenue sur mon profil Github ! 😄</p>
 
 ### <p align="center">Qui suis-je ? </p>
 
