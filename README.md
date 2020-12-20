@@ -5,7 +5,9 @@
 Tu peux aussi me retrouver sur [mon portfolio !](https://sepios.fr/)
 
 ## Me contacter 😏
-<img align="center" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+
+[<img align="center" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/florian-toribio/)
+
 
 
 ## Compétences 🔧
