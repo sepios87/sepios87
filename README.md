@@ -66,7 +66,7 @@ Je te conseille ces deux dépots en particulier ^^ :
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepios87&layout=compact"/>
       <img src="https://github-readme-stats.vercel.app/api?username=sepios87&hide=contribs,prs" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepios87&layout=compact"/>
   </div>
 </div>
