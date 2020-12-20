@@ -13,6 +13,7 @@
 ## Me contacter 😏
 <br/>
 
+<div>
 
 [<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>](https://www.linkedin.com/in/florian-toribio/)
 
@@ -22,7 +23,7 @@
 
 <a href="mailto:sepios.corp@gmail.com"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/></a>
 
-
+</div>
 <br/><br/>
 
 ## Compétences 🔧
