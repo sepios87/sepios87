@@ -2,6 +2,8 @@
 
 ### <p align="center">Qui suis-je ? </p>
 
+<br/>
+
 Étudiant en IUT Informatique 🎓 , je suis aussi auto-entrepreneur en développement. J'apprécie véritablement le contact humain 🥰 et aime aider les gens à trouver des solutions adaptées à leurs besoins grâce à l’informatique. Pour y parvenir, j’aime travailler en équipe, mais je suis aussi capable de mener un projet seul 🏆. Les personnes avec qui je travaille mettent en avant mon sérieux, mon écoute et mon adaptabilité ✌️.
 
 🌐 Tu peux aussi me retrouver sur [mon portfolio !](https://sepios.fr/) 
@@ -9,6 +11,8 @@
 <br/>
 
 ## Me contacter 😏
+
+<br/>
 
 [<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>](https://www.linkedin.com/in/florian-toribio/)
 
