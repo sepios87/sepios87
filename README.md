@@ -8,9 +8,12 @@
 
 ## Me contacter 😏
 
-<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+[<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>](https://www.linkedin.com/in/florian-toribio/)
 
-<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+[<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" hspace="20"/>](https://github.com/sepios87)
+
+[<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/>](sepios.corp@gmail.com)
+
 
 <br/><br/>
 
