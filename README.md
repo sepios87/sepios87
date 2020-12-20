@@ -62,7 +62,7 @@ Je te conseille ces deux dépots en particulier ^^ :
 
 <br/>
 
-## Les statistiques de mon dépot 🤗
+## Les statistiques de mon profil 🤗
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
