@@ -1,14 +1,18 @@
 # <p align="center">Bienvenue sur mon dépot Github ! 😄</p>
 
 ### <p align="center">Qui suis-je ? </p>
-Étudiant en IUT Informatique, je suis aussi auto-entrepreneur en développement. J'apprécie véritablement le contact humain et aime aider les gens à trouver des solutions adaptées à leurs besoins grâce à l’informatique. Pour y parvenir, j’aime travailler en équipe, mais je suis aussi capable de mener un projet seul. Les personnes avec qui je travaille mettent en avant mon sérieux, mon écoute et mon adaptabilité.
-Tu peux aussi me retrouver sur [mon portfolio !](https://sepios.fr/)
+Étudiant en IUT Informatique 🎓 , je suis aussi auto-entrepreneur en développement. J'apprécie véritablement le contact humain 🥰 et aime aider les gens à trouver des solutions adaptées à leurs besoins grâce à l’informatique. Pour y parvenir, j’aime travailler en équipe, mais je suis aussi capable de mener un projet seul 🏆. Les personnes avec qui je travaille mettent en avant mon sérieux, mon écoute et mon adaptabilité ✌️.
+
+🌐 Tu peux aussi me retrouver sur [mon portfolio !](https://sepios.fr/) 
+
 
 ## Me contacter 😏
 
-[<img align="center" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/florian-toribio/)
+<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
 
+<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
 
+<br/><br/>
 
 ## Compétences 🔧
 
