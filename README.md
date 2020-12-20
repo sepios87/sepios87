@@ -16,6 +16,8 @@
 
 ## Compétences 🔧
 
+<div align="center"> 
+
 |Langages / Framworks           |Niveau           		|
 |-------------------------------|-------------------------------|
 |`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">              	|❤️❤️❤️❤️❤️🧡           	|
@@ -30,6 +32,8 @@
 |`Rust`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg">          		|❤️❤️             		|
 |`Arduino`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg">          		|❤️❤️             		|
 |`Python`     <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg">         		|❤️🧡            		|
+
+</div>
 
 # Projets 💻
 
