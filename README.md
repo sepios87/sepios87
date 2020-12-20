@@ -12,7 +12,7 @@
 
 ## Me contacter 😏
 
-<br/>
+<br/><br/>
 
 [<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>](https://www.linkedin.com/in/florian-toribio/)
 
