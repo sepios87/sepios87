@@ -53,13 +53,14 @@ Tu trouveras ici mes projets scolaire comme personnels. Si tu as des questions s
 
 Je te conseille ces deux dépots en particulier ^^ :
 
+<div align="center"> 
 <table style="border : 1px solid black">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sawangg&repo=Pilaf"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepios87&repo=spaceinvaders"/></td>
   </tr>
 </table>
-
+</div>
 <br/>
 
 ## Les statistiques de mon profil 🤗
