@@ -1,16 +1,48 @@
-### Hi there 👋
+# <p align="center">Bienvenue sur mon dépot Github ! 😄</p>
 
-<!--
-**sepios87/sepios87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <p align="center">Qui suis-je ? </p>
+Étudiant en IUT Informatique, je suis aussi auto-entrepreneur en développement. J'apprécie véritablement le contact humain et aime aider les gens à trouver des solutions adaptées à leurs besoins grâce à l’informatique. Pour y parvenir, j’aime travailler en équipe, mais je suis aussi capable de mener un projet seul. Les personnes avec qui je travaille mettent en avant mon sérieux, mon écoute et mon adaptabilité.
+Tu peux aussi me retrouver sur [mon portfolio !](https://sepios.fr/)
 
-Here are some ideas to get you started:
+## Me contacter 😏
+<img align="center" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Compétences 🔧
+
+|Langages / Framworks           |Niveau           		|
+|-------------------------------|-------------------------------|
+|`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">              	|❤️❤️❤️❤️❤️🧡           	|
+|`React` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">           		|❤️❤️❤️❤️🧡          		|
+|`PHP`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">          		|❤️❤️❤️❤️            		|
+|`JAVA`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">           		|❤️❤️❤️🧡            		|
+|`JS`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">         		|❤️❤️❤️🧡            		|
+|`C / C++`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg">          		|❤️❤️❤️🧡            		|
+|`MySQL`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">          		|❤️❤️❤️🧡            		|
+|`Symfony`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg">           		|❤️❤️❤️            		|
+|`Bash`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">            		|❤️❤️            		|
+|`Rust`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg">          		|❤️❤️             		|
+|`Arduino`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg">          		|❤️❤️             		|
+|`Python`     <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg">         		|❤️🧡            		|
+
+# Projets 💻
+
+Tu trouveras ici mes projets scolaire comme personnels. Si tu as des questions sur certains n'hésites pas à me contacter !  
+
+Je te conseille ces deux dépots en particulier ^^ :
+
+<table style="border : 1px solid black">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sawangg&repo=Pilaf"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepios87&repo=Site_DavidLemonade"/></td>
+  </tr>
+</table>
+
+## Le statistiques de mon dépot 🤗
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sepios87&hide=contribs,prs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepios87&layout=compact"/>
+  </div>
+</div>
