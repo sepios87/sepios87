@@ -59,8 +59,10 @@ Je te conseille ces deux dépots en particulier ^^ :
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepios87&repo=Site_DavidLemonade"/></td>
   </tr>
 </table>
+
 <br/>
-## Le statistiques de mon dépot 🤗
+
+## Les statistiques de mon dépot 🤗
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
