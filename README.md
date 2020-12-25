@@ -50,6 +50,7 @@
 # Projets 💻
 
 Tu trouveras ici mes projets scolaire comme personnels. Si tu as des questions sur certains n'hésites pas à me contacter !  
+J'ai certains projets encore sous clé 🔒 mais si tu as de la chance je les finirai bientot et ils deviendront plublics ! 😄
 
 Je te conseille ces deux dépots en particulier ^^ :
 
