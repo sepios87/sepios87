@@ -60,7 +60,7 @@ Je te conseille ces deux dépots en particulier ^^ :
 <table style="border : 1px solid black">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sawangg&repo=Pilaf"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepios87&repo=spaceinvaders"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepios87/Space-Invaders-TDD"/></td>
   </tr>
 </table>
 </div>
