@@ -59,8 +59,8 @@ Je te conseille ces deux dépots en particulier ^^ :
 <div align="center"> 
 <table style="border : 1px solid black">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sawangg&repo=Pilaf"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepios87&repo=Space-Invaders-TDD"/></td>
+    <td><a href="https://github.com/sepios87/Pilaf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sawangg&repo=Pilaf"/></a></td>
+    <td><a href="https://github.com/sepios87/Space-Invaders-TDD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepios87&repo=Space-Invaders-TDD"/></a></td>
   </tr>
 </table>
 </div>
