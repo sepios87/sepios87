@@ -39,7 +39,7 @@
 |`JQuery`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg">           		|❤️❤️❤️❤️             		|
 |`PHP`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">          		|❤️❤️❤️❤️            		|
 |`JAVA`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">           		|❤️❤️❤️🧡            		|
-|`JS`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">         		|❤️❤️❤️🧡            		|
+|`Node JS`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">         		|❤️❤️❤️🧡            		|
 |`Angular`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg">          		|❤️❤️❤️🧡            		|
 |`C / C++`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg">          		|❤️❤️❤️🧡            		|
 |`MySQL`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">          		|❤️❤️❤️🧡            		|
