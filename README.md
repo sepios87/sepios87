@@ -36,18 +36,18 @@
 |-------------------------------|-------------------------------|
 |`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">              	|❤️❤️❤️❤️❤️🧡           	|
 |`React` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">           		|❤️❤️❤️❤️🧡          		|
+|`Angular` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg">           		|❤️❤️❤️❤️🧡          		|
 |`JQuery`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg">           		|❤️❤️❤️❤️             		|
 |`PHP`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">          		|❤️❤️❤️❤️            		|
 |`JAVA`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">           		|❤️❤️❤️🧡            		|
 |`Node JS`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">         		|❤️❤️❤️🧡            		|
-|`Angular`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg">          		|❤️❤️❤️🧡            		|
+|`Symfony`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg">           		|❤️❤️❤️🧡             		|
 |`C / C++`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg">          		|❤️❤️❤️🧡            		|
 |`MySQL`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">          		|❤️❤️❤️🧡            		|
 |`Bash`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">            		|❤️❤️            		|
 |`Rust`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg">          		|❤️❤️             		|
 |`Arduino`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg">          		|❤️❤️             		|
 |`Python`     <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg">         		|❤️🧡            		|
-|`Symfony`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg">           		|❤️🧡             		|
 
 </div>
 
