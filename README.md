@@ -35,7 +35,7 @@
 |Langages / Framworks           |Niveau           		|
 |-------------------------------|-------------------------------|
 |`Flutter` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg">           		|❤️❤️❤️❤️🧡          		|
-|`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">              	|❤️❤️❤️❤️❤️🧡           	|
+|`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">              	|❤️❤️❤️❤️🧡           	|
 |`Angular` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg">           		|❤️❤️❤️❤️🧡          		|
 |`React` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">           		|❤️❤️❤️❤️          		|
 |`JQuery`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg">           		|❤️❤️❤️🧡             		|
