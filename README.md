@@ -34,11 +34,12 @@
 
 |Langages / Framworks           |Niveau           		|
 |-------------------------------|-------------------------------|
+|`Flutter` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg">           		|❤️❤️❤️❤️🧡          		|
 |`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">              	|❤️❤️❤️❤️❤️🧡           	|
-|`React` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">           		|❤️❤️❤️❤️🧡          		|
 |`Angular` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg">           		|❤️❤️❤️❤️🧡          		|
-|`JQuery`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg">           		|❤️❤️❤️❤️             		|
-|`PHP`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">          		|❤️❤️❤️❤️            		|
+|`React` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">           		|❤️❤️❤️❤️          		|
+|`JQuery`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg">           		|❤️❤️❤️🧡             		|
+|`PHP`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">          		|❤️❤️❤️🧡            		|
 |`JAVA`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">           		|❤️❤️❤️🧡            		|
 |`Node JS`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">         		|❤️❤️❤️🧡            		|
 |`Symfony`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg">           		|❤️❤️❤️🧡             		|
