@@ -1,4 +1,4 @@
-![banner](![banner](https://github.com/sepios87/sepios87/assets/58748740/bada2fcc-aebb-4bd6-be34-e366f8ad1d8b)
+![banner](https://github.com/sepios87/sepios87/assets/58748740/df96956a-c8b5-460c-b0d1-6ca954e68a0a)
 
 # <p align="center">Bienvenue sur mon profil Github ! 😄</p>
 
